@@ -1,0 +1,34 @@
+.container {
+  font-family: Arial;
+  padding: 20px;
+}
+
+input,
+button {
+  padding: 6px;
+  margin: 5px;
+}
+
+.table {
+  width: 100%;
+  margin-top: 15px;
+}
+
+.pagination button {
+  margin: 3px;
+  padding: 6px;
+}
+
+.pagination .active {
+  background-color: black;
+  color: white;
+}
+
+.form {
+  margin-bottom: 20px;
+}
+
+.search {
+  width: 200px;
+}
+
